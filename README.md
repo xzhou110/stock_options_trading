@@ -1,2 +1,2 @@
 # READ ME
-# Objective: Optimize strategies, pricing and return for trading stock options
+# Objective: Optimize strategy, pricing and return for trading stock options
