@@ -1,5 +1,5 @@
 # READ ME
 ### Objective: 
-#### Option Chain could be quite confusing. It usually comes with different strategies, strikes and premiums. This is developed to help pick the right option from the option sea. The main objective is to assist in making quick decisions,  and optimizing strategy, pricing and return for trading options
+#### Stock options is a kingdom full of confusions. Options can be used either solely or combined to serve different purposes. This is developed to help users optimize option strategy and make quick and better decisions.
 ### Disclaimer: 
-#### There is significant risk trading with options. Use this at your own risk. 
+#### There is significant risk involved with trading stock options. Use this at your own risk. 
