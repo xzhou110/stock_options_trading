@@ -9,6 +9,8 @@ import math
 
 class Options:
     def __init__(self, ticker, expiration, action, strike, premium, curr_price, imp_vol, min_price=0, max_price=100):
+        
+        # extract key info from experiration date
         self.exp_date = datetime.strptime(expiration, '%Y-%m-%d')
         self.exp_date_yr = self.exp_date.year
         self.exp_date_mon = self.exp_date.month
